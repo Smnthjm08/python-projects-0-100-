@@ -1,7 +1,1 @@
-# python-projects
-Python Projects
-
-01.band-name-generator
-02.tip-calculator
-03.treasure-island-game
-04.rock-paper-scissor
+Created this repository to track and update my progress in python by taking the challenge 100 python projects from zero to hero
